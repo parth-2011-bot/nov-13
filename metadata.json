@@ -1,0 +1,6 @@
+{
+  "name": "The Bromine Bureau",
+  "description": "An entire administrative bureau established to monitor, catalog, and count down to the annual milestone of Subject Bromine: November 20.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

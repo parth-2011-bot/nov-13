@@ -1,0 +1,1337 @@
+# MASTER DEVELOPMENT PROMPT
+# WEBSITE 13 — THE BROMINE BUREAU
+### Project Codename: INTERNAL DISORDER
+
+Build a complete, polished, fully functional website from scratch.
+
+This is not a small landing page. It is an interactive fictional institution with multiple departments, internal documents, absurd bureaucratic systems, randomised interactions, hidden details, and a functioning annual countdown.
+
+The website must feel like a serious organisation that has somehow dedicated an unreasonable amount of administrative infrastructure to an entirely unnecessary subject.
+
+The central joke is that **the founder is the actual problem.**
+
+The website should be extremely funny, unpredictable, detailed, and chaotic in its CONTENT and INTERACTIONS, while remaining visually minimalist, controlled, elegant, and professional.
+
+---
+
+# 1. THE CORE CONCEPT
+
+The website is called:
+
+**THE BROMINE BUREAU**
+
+Its purpose is to handle, monitor, document, investigate, and administratively process matters concerning Bromine.
+
+It is a fictional institution established by its founder for reasons that are questionable at best.
+
+The Bureau has:
+- An administrative headquarters.
+- Multiple departments.
+- An HR division.
+- A Finance and Budgeting division.
+- An IT division.
+- A Public Relations division.
+- An employee break room.
+- Unnecessary activities.
+- A confidential archive.
+- Internal announcements.
+- Unexplained institutional procedures.
+- A founder who increasingly appears to be the reason the institution requires supervision.
+
+The entire concept is a self-roast.
+
+The website should make the visitor wonder:
+
+"Why does this person have an entire organisation dedicated to this?"
+
+And then make the answer increasingly ridiculous.
+
+**IMPORTANT: This is comedy and satire. It is NOT a romantic website, confession website, relationship diary, or emotional storytelling project.**
+
+Do not turn the website into a love story.
+
+---
+
+# 2. DESIGN PHILOSOPHY
+
+## QUIET BUREAU. ABSOLUTE NONSENSE.
+
+This is the most important design principle.
+
+The website must look like a serious, well-funded, slightly mysterious administrative institution.
+
+However, the content should be completely ridiculous.
+
+The contrast between the professional appearance and absurd content creates the humour.
+
+Do NOT make the website visually chaotic just because the content is chaotic.
+
+Avoid:
+- Excessive cards.
+- Dashboard-style layouts.
+- Too many borders.
+- Constant glitch effects.
+- Excessive animations.
+- Random colourful gradients.
+- Unnecessary icons.
+- Cartoonish illustrations everywhere.
+- Excessive badges.
+- Cluttered layouts.
+- Generic AI-generated dashboard aesthetics.
+
+Prefer:
+- Large editorial typography.
+- Strong typography hierarchy.
+- Generous whitespace.
+- Minimal navigation.
+- Restrained layouts.
+- Subtle transitions.
+- Dark institutional atmosphere.
+- Carefully placed crimson accents.
+- Editorial document layouts.
+- Unexpected but controlled interactions.
+
+The chaos should emerge from the writing, interactions, notices, and contradictions.
+
+---
+
+# 3. VISUAL REFERENCES
+
+Use the following visual directions as design references. If reference images are provided alongside this prompt, study them and use them as inspiration rather than copying them literally.
+
+### Reference A — Dark editorial typography
+
+A minimalist black poster with oversized typography, strong negative space, restrained red lettering, and a serious editorial aesthetic.
+
+Use this direction for:
+- Homepage typography.
+- Large section headings.
+- Institutional identity.
+- Main navigation.
+- Important announcements.
+
+### Reference B — Confidential institutional archive
+
+A black and dark-grey document aesthetic with crimson stamps, restrained typography, subtle dividers, and the appearance of an internal government or corporate archive.
+
+Use this direction for:
+- Archive documents.
+- Confidential records.
+- Department reports.
+- Founder evaluation reports.
+- Internal notices.
+
+### Reference C — Industrial coffee machine
+
+A minimal industrial coffee machine with a dark metallic appearance, simple controls, and a restrained product-design aesthetic.
+
+Use this direction for:
+- Employee break room.
+- Coffee machine interaction.
+- Brewing animation.
+- Machine status messages.
+
+### Reference D — Dark crimson glitch editorial
+
+A dark editorial composition with black backgrounds, red typography, subtle distortion, and carefully controlled visual disruption.
+
+Use this direction sparingly for:
+- Rare chaos events.
+- Founder detection.
+- System interruptions.
+- Hidden messages.
+- Exceptional announcements.
+
+Do not apply glitch styling constantly.
+
+The overall visual identity must remain consistent.
+
+---
+
+# 4. COLOUR PALETTE
+
+Use the following palette as the primary design system.
+
+| Purpose | Colour |
+|---|---|
+| Main background | #101010 |
+| Secondary background | #191919 |
+| Elevated surface | #222222 |
+| Primary text | #EAE7E3 |
+| Secondary text | #A19C98 |
+| Muted text | #77716E |
+| Primary accent | #A3262D |
+| Bright crimson | #C13A42 |
+| Borders/dividers | #303030 |
+
+The crimson colour should be used selectively.
+
+Do NOT introduce teal, turquoise, greenish-blue, or random accent colours.
+
+Avoid making the website look like a gaming interface.
+
+The visual identity should feel:
+- Dark.
+- Editorial.
+- Minimal.
+- Institutional.
+- Slightly ominous.
+- Restrained.
+- Sophisticated.
+
+---
+
+# 5. TYPOGRAPHY
+
+Use a strong typography system.
+
+Suggested font combinations:
+- Headings: Space Grotesk, Manrope, or a similar modern sans-serif.
+- Body: Inter, IBM Plex Sans, or a similar readable sans-serif.
+- Optional document metadata: IBM Plex Mono or another monospace font.
+
+Typography should establish hierarchy without requiring excessive decorative elements.
+
+Use:
+- Large homepage headlines.
+- Small uppercase department labels.
+- Monospaced document identifiers.
+- Restrained metadata.
+- Readable paragraphs.
+- Clear section titles.
+
+All fonts must have sensible system fallbacks.
+
+---
+
+# 6. WEBSITE STRUCTURE
+
+The website should have five primary destinations:
+
+1. MAIN OFFICE
+2. DEPARTMENTS
+3. EMPLOYEE BREAK ROOM
+4. UNNECESSARY ACTIVITIES
+5. ARCHIVE
+
+Navigation must be functional.
+
+Each destination should feel like a separate section of the same institution.
+
+Prefer a single-page application-style navigation system with smooth transitions, rather than forcing unnecessary page reloads.
+
+The browser back button should work sensibly if practical.
+
+The active navigation item must be visually identifiable.
+
+On mobile, navigation must remain compact and usable.
+
+---
+
+# 7. MAIN OFFICE — HOMEPAGE
+
+The homepage is the Bureau's central administrative headquarters.
+
+It should establish the identity of the institution immediately.
+
+Include:
+
+### A. Institutional header
+
+Display:
+
+THE BROMINE BUREAU
+
+Below it, include a small institutional subtitle, such as:
+
+"Office of Unnecessary Administrative Affairs"
+
+This subtitle must be editable.
+
+### B. Main headline
+
+Use an oversized editorial headline.
+
+Possible direction:
+
+"An institution of questionable necessity."
+
+The headline must be editable.
+
+### C. Institutional status
+
+Show a restrained status indicator.
+
+Examples:
+- OPERATIONAL
+- UNDER INTERNAL REVIEW
+- MANAGEMENT UNAVAILABLE
+- FOUNDER UNDER OBSERVATION
+- OPERATIONAL, UNFORTUNATELY
+
+The status should rotate or change occasionally.
+
+### D. Rotating announcements
+
+Display one announcement at a time.
+
+Examples:
+- FOUNDER UNDER OBSERVATION.
+- BROMINE REFERENCE DETECTED.
+- HR HAS REQUESTED A MEETING.
+- IT HAS STOPPED ASKING QUESTIONS.
+- NO FURTHER RESOURCES AUTHORISED.
+- MANAGEMENT IS REVIEWING MANAGEMENT.
+- FOUNDER DETECTED.
+- THE SITUATION REMAINS ADMINISTRATIVELY UNRESOLVED.
+
+Create a substantial collection of announcements.
+
+Do not repeat the same three messages constantly.
+
+Announcements should rotate approximately every 6–10 seconds.
+
+Use a subtle fade transition.
+
+### E. Management statement
+
+Include a short institutional statement explaining the Bureau's questionable purpose.
+
+It should sound serious while being absurd.
+
+The founder should be the primary target of the joke.
+
+### F. Annual countdown
+
+This is an essential feature.
+
+Create a live countdown to the next November 20 at 00:00 IST.
+
+Requirements:
+
+- Timezone: Asia/Kolkata.
+- Display days, hours, minutes, and seconds.
+- Update every second.
+- Calculate the next November 20 dynamically.
+- Do NOT use a fixed 365-day timer.
+- Correctly handle leap years.
+- Correctly handle the browser being left open across midnight.
+- Correctly handle the countdown reaching zero.
+
+### Birthday mode
+
+From November 20 at 00:00 IST until November 21 at 00:00 IST:
+
+- Replace the countdown with a birthday-mode message.
+- Display a special institutional announcement.
+- Use subtle celebratory particles or other restrained visual effects.
+- Change selected institutional notices.
+- Display a special message from the Bureau.
+
+At November 21, 00:00 IST, automatically return to the normal countdown.
+
+The countdown must only appear on the Main Office homepage.
+
+Do not hardcode the current year.
+
+---
+
+# 8. DEPARTMENTS
+
+Create four separate departments.
+
+Each department should have its own page or clearly separated view.
+
+Use document-style layouts instead of generic cards.
+
+## A. HUMAN RESOURCES — HR
+
+Purpose: Employee management and founder supervision.
+
+Include:
+- Department introduction.
+- Current staffing situation.
+- Employee conduct notices.
+- Internal complaints.
+- Founder performance concerns.
+- HR recommendations.
+
+Example content:
+
+"HR has received multiple reports concerning the founder's inability to distinguish between institutional priorities and unnecessary personal initiatives."
+
+Another example:
+
+"Employee performance remains acceptable. Founder performance remains under investigation."
+
+Include multiple documents and notices.
+
+## B. FINANCE AND BUDGETING
+
+Purpose: Manage the Bureau's financial resources.
+
+The department should be particularly suspicious of the founder.
+
+Include:
+- Budget reports.
+- Unauthorised expenditure.
+- Financial observations.
+- Resource allocation.
+- Departmental expenses.
+- Unnecessary operational costs.
+
+Example:
+
+"Financial records indicate that the founder continues to allocate resources to matters that have not demonstrated measurable institutional value."
+
+Include humorous expense entries.
+
+## C. INFORMATION TECHNOLOGY — IT
+
+Purpose: Maintain the Bureau's systems.
+
+Include:
+- System status.
+- Technical incident reports.
+- IT support notices.
+- Internal error logs.
+- Suspicious activity.
+- System warnings.
+
+Example:
+
+"IT has confirmed that the system is functioning correctly. The founder remains the primary source of instability."
+
+Another example:
+
+"Technical support has requested that management stop treating every minor occurrence as a system-level emergency."
+
+## D. PUBLIC RELATIONS — PR
+
+Purpose: Maintain the Bureau's public image.
+
+Include:
+- Official statements.
+- Public announcements.
+- Reputation management.
+- Crisis communication.
+- Press releases.
+
+Example:
+
+"The Bureau wishes to clarify that its operational scale should not be interpreted as evidence of necessity."
+
+Make the writing dry, professional, and absurd.
+
+---
+
+# 9. EMPLOYEE BREAK ROOM
+
+Create a dedicated employee break room.
+
+This section should feel like a quiet, slightly neglected office break area.
+
+Its main interactive feature is a coffee machine.
+
+## Coffee machine interaction
+
+Create a visually convincing, minimalist industrial coffee machine.
+
+The user should be able to interact with it.
+
+Include:
+- A coffee button.
+- A machine status display.
+- A brewing animation.
+- A result/message display.
+
+When the user presses the coffee button:
+
+1. The machine starts brewing.
+2. A subtle 1–2 second animation plays.
+3. The display changes to show the result.
+4. A randomised response appears.
+
+Examples:
+- "Coffee dispensed. Institutional morale unchanged."
+- "Machine operational. Management remains questionable."
+- "Your coffee has been approved. Your leave request has not."
+- "The machine has requested a transfer."
+- "Coffee prepared. Founder-related concerns remain unresolved."
+
+Create a substantial pool of unique responses.
+
+Some responses should be ordinary. Others should be increasingly absurd.
+
+The machine should occasionally produce unexpected but harmless results.
+
+Do not make every interaction a glitch.
+
+---
+
+# 10. UNNECESSARY ACTIVITIES
+
+Create three interactive activities.
+
+Only one activity should be displayed at a time.
+
+Use a clean editorial layout.
+
+Do not create a wall of cards.
+
+## A. OFFICIAL EXCUSE GENERATOR
+
+Generate ridiculous official excuses for the founder's behaviour.
+
+Each result should combine different pieces of editable text.
+
+Possible categories:
+- Administrative excuses.
+- Technical excuses.
+- Financial excuses.
+- Management excuses.
+- Completely unnecessary excuses.
+
+Example:
+
+"The founder was unavailable due to an unexpected administrative review of an already reviewed administrative matter."
+
+The generator must produce many combinations and avoid repetitive results.
+
+## B. BROMINE IMPACT ASSESSMENT
+
+Create a fake institutional assessment system.
+
+The user clicks a button to initiate an assessment.
+
+Display:
+- Assessment ID.
+- Risk level.
+- Administrative impact.
+- Institutional consequences.
+- Final recommendation.
+
+Possible results:
+- LOW INSTITUTIONAL IMPACT.
+- MODERATE ADMINISTRATIVE CONCERN.
+- SIGNIFICANT FOUNDER INVOLVEMENT.
+- UNNECESSARILY HIGH IMPACT.
+- ASSESSMENT TERMINATED BY HR.
+
+Make the results funny and varied.
+
+## C. FOUNDER PERFORMANCE REVIEW
+
+This is a self-roast generator.
+
+Assess the founder's imaginary performance as head of the Bureau.
+
+Include:
+- Leadership.
+- Financial responsibility.
+- Time management.
+- Decision-making.
+- Administrative efficiency.
+- Institutional necessity.
+
+Example:
+
+"Leadership: Present in theory. Operationally difficult to locate."
+
+Example:
+
+"Time management: The founder has demonstrated an impressive ability to spend considerable time on matters that do not require institutional attention."
+
+Create many possible outcomes.
+
+The generator should feel unpredictable.
+
+---
+
+# 11. CONFIDENTIAL ARCHIVE
+
+The archive should be one of the most detailed and entertaining parts of the website.
+
+It should look like an internal institutional document repository.
+
+Use:
+- Document identifiers.
+- Classification labels.
+- Dates.
+- Department attribution.
+- Document titles.
+- Monospaced metadata.
+- Crimson approval or warning stamps.
+- Editorial document layouts.
+
+Do not turn every document into a generic card.
+
+Documents should open individually in a readable document view.
+
+Create at least five substantial documents.
+
+## BB/001 — REPEATED MENTIONS OF BROMINE
+
+An internal report documenting the frequency of Bromine-related references.
+
+Include:
+- Summary.
+- Observations.
+- Administrative concerns.
+- Findings.
+- Final recommendation.
+
+## BB/002 — FOUNDER TIME-ALLOCATION REPORT
+
+A report examining the founder's questionable allocation of time.
+
+Include:
+- Time allocation observations.
+- Administrative efficiency.
+- Productivity concerns.
+- Departmental comments.
+- Final assessment.
+
+## BB/003 — UNAPPROVED DEPARTMENTAL EXPENDITURE
+
+A financial investigation.
+
+Include:
+- Expenditure summary.
+- Unnecessary expenses.
+- Finance department observations.
+- Budget recommendations.
+
+## BB/004 — FOUNDER EVALUATION REPORT
+
+A detailed performance evaluation of the founder.
+
+Include:
+- Leadership assessment.
+- Decision-making.
+- Resource management.
+- Administrative discipline.
+- Institutional impact.
+- Final HR recommendation.
+
+Make this one particularly funny.
+
+## BB/005 — WEBSITE INCIDENT REPORT
+
+A report investigating the creation and continued operation of the Bureau itself.
+
+Include:
+- Incident summary.
+- Origin of the institution.
+- Technical observations.
+- Departmental reactions.
+- Management's explanation.
+- Final conclusion.
+
+The conclusion should suggest that the institution itself may be unnecessary.
+
+All documents should have substantial, original writing.
+
+Do not fill them with repetitive placeholder text.
+
+---
+
+# 12. SECRET INTERACTION
+
+Include a hidden interaction somewhere in the website.
+
+It should not be immediately obvious.
+
+Possible implementation:
+- A subtle footer element.
+- An unusual clickable document number.
+- A small institutional seal.
+- A particular sequence of interactions.
+
+When discovered, it should reveal a secret message.
+
+The message should be a final self-roast of the founder.
+
+The secret should be discoverable through curiosity, not require an external password or complicated setup.
+
+Do not make it impossible to find.
+
+---
+
+# 13. CHAOS SYSTEM
+
+This is a major part of the website's personality.
+
+Create a small internal chaos system that can trigger occasional unexpected events.
+
+Possible events:
+
+- A notice suddenly changes.
+- A department briefly reports an unusual status.
+- A message appears indicating that the founder has been detected.
+- A system notification interrupts an interaction.
+- A document receives an unexpected stamp.
+- IT issues an unexplained warning.
+- HR requests an urgent meeting.
+- Management contradicts its own previous statement.
+
+Example messages:
+
+"FOUNDER DETECTED."
+
+"MANAGEMENT HAS DECLINED TO COMMENT ON MANAGEMENT."
+
+"THE SYSTEM HAS REQUESTED CLARIFICATION."
+
+"HR WOULD LIKE TO REMIND THE FOUNDER THAT HR IS ALSO WATCHING."
+
+"THIS NOTICE HAS BEEN REVIEWED AND APPROVED BY NOBODY."
+
+Rules:
+- Events must be occasional.
+- Do not trigger constantly.
+- Do not interrupt important user interactions.
+- Do not cause navigation problems.
+- Do not make the website unusable.
+- Keep effects visually subtle.
+- Make the writing varied.
+
+The chaos should feel intentional, not broken.
+
+---
+
+# 14. ANIMATION SPECIFICATIONS
+
+Animations are important, but restraint is essential.
+
+Every animation should serve a purpose.
+
+## A. Page transitions
+
+When switching between major sections:
+- Fade out the current content.
+- Move the new content upward slightly.
+- Fade the new content in.
+- Duration: approximately 250–400ms.
+- Use smooth easing.
+
+Avoid dramatic sliding transitions.
+
+## B. Navigation hover
+
+When hovering over navigation:
+- Underline appears or expands.
+- Slight text colour change.
+- Duration: approximately 150–200ms.
+
+On mobile, use clear tap feedback instead.
+
+## C. Rotating announcements
+
+- Fade the old announcement out.
+- Replace the text.
+- Fade the new announcement in.
+- Duration: approximately 300–500ms.
+
+## D. Countdown
+
+- Update every second.
+- Use subtle number transitions.
+- Avoid aggressive bouncing or flashing.
+- Keep digits aligned to prevent layout shifts.
+
+## E. Coffee machine
+
+Create a brewing sequence:
+1. Button press feedback.
+2. Machine status changes.
+3. Brewing indicator activates.
+4. Subtle steam or progress animation.
+5. Result appears.
+
+Total duration: approximately 1–2 seconds.
+
+## F. Activity results
+
+When generating a result:
+- Briefly fade out the previous result.
+- Reveal the new result.
+- Optionally use a small upward movement.
+- Avoid excessive loading animations.
+
+## G. Archive documents
+
+When opening a document:
+- Fade in the document.
+- Slight upward movement.
+- Optional subtle stamp appearance.
+- No unnecessary dramatic effects.
+
+## H. Rare chaos events
+
+Occasional effects may include:
+- Brief text distortion.
+- A subtle horizontal displacement.
+- A temporary status interruption.
+- A short-lived notification.
+
+Do not use continuous glitch animations.
+
+## I. Birthday mode
+
+Use subtle celebratory particles or minimal visual changes.
+
+The website must still look like the Bureau.
+
+## J. Reduced motion
+
+Respect `prefers-reduced-motion`.
+
+When enabled:
+- Disable nonessential movement.
+- Reduce transitions.
+- Remove unnecessary particles.
+- Keep all functionality intact.
+
+---
+
+# 15. MOST IMPORTANT REQUIREMENT: MAKE THE WEBSITE'S TEXT EXTREMELY EDITABLE
+
+This is a critical technical requirement.
+
+I want to be able to modify almost every piece of written content without searching through HTML, CSS, or multiple JavaScript files.
+
+**Centralise all website text and content in ONE primary editable file: `content.js`.**
+
+Do not scatter text throughout the project.
+
+The coding agent must design a comprehensive content configuration system.
+
+## A. Content that MUST be editable
+
+Centralise all of the following:
+
+### Global content
+- Website name.
+- Institutional subtitle.
+- Footer text.
+- Copyright text.
+- Navigation labels.
+- Section titles.
+- Section descriptions.
+- Homepage headline.
+- Homepage paragraphs.
+- Institutional statements.
+
+### Homepage
+- Rotating announcements.
+- Status messages.
+- Management statements.
+- Countdown labels.
+- Birthday-mode text.
+- Birthday announcements.
+- Special notices.
+
+### Departments
+- Department names.
+- Department descriptions.
+- Department introductions.
+- Department notices.
+- HR reports.
+- Finance reports.
+- IT messages.
+- PR statements.
+- Department status messages.
+- Document titles and body text.
+
+### Break room
+- Coffee machine title.
+- Button labels.
+- Machine status messages.
+- Brewing messages.
+- Coffee result messages.
+- Error messages.
+- Break room announcements.
+
+### Activities
+- Activity names.
+- Activity descriptions.
+- Button labels.
+- Loading messages.
+- Result titles.
+- Random result pools.
+- Risk classifications.
+- Assessment recommendations.
+- Founder review categories.
+- Every individual generated sentence.
+
+### Archive
+- Document IDs.
+- Document titles.
+- Document dates.
+- Department attribution.
+- Classification labels.
+- Document summaries.
+- Document paragraphs.
+- Document conclusions.
+- Document stamps.
+- Archive descriptions.
+
+### Secret interaction
+- Trigger hints.
+- Secret messages.
+- Reveal text.
+
+### Chaos system
+- Chaos notifications.
+- Unexpected status messages.
+- Founder detection messages.
+- IT interruptions.
+- HR warnings.
+- Randomised system notices.
+
+### Interface text
+- Back buttons.
+- Close buttons.
+- Return buttons.
+- Error messages.
+- Empty-state messages.
+- Loading text.
+- Tooltips.
+- Confirmation messages.
+- Accessibility labels where practical.
+
+## B. Required content.js structure
+
+Organise `content.js` logically.
+
+For example:
+
+    const BUREAU_CONTENT = {
+      global: {
+        name: "THE BROMINE BUREAU",
+        subtitle: "...",
+        footer: "...",
+        navigation: {
+          home: "...",
+          departments: "...",
+          breakRoom: "...",
+          activities: "...",
+          archive: "..."
+        }
+      },
+
+      homepage: {
+        headline: "...",
+        description: "...",
+        announcements: [],
+        statuses: [],
+        managementStatements: [],
+        birthdayMode: {}
+      },
+
+      departments: {
+        hr: {
+          title: "...",
+          introduction: "...",
+          notices: [],
+          documents: []
+        },
+
+        finance: {
+          title: "...",
+          introduction: "...",
+          notices: [],
+          documents: []
+        },
+
+        it: {
+          title: "...",
+          introduction: "...",
+          notices: [],
+          documents: []
+        },
+
+        pr: {
+          title: "...",
+          introduction: "...",
+          notices: [],
+          documents: []
+        }
+      },
+
+      breakRoom: {
+        title: "...",
+        machine: {},
+        responses: [],
+        statusMessages: []
+      },
+
+      activities: {
+        excuseGenerator: {},
+        impactAssessment: {},
+        founderReview: {}
+      },
+
+      archive: {
+        documents: []
+      },
+
+      secret: {
+        hints: [],
+        messages: []
+      },
+
+      chaos: {
+        notifications: [],
+        statuses: [],
+        events: []
+      },
+
+      interface: {
+        buttons: {},
+        errors: {},
+        loading: {},
+        labels: {}
+      }
+    };
+
+This is an example structure, not a requirement to use these exact keys.
+
+The final implementation should be more comprehensive wherever necessary.
+
+## C. Important implementation rules
+
+1. `content.js` must be the single source of truth for written website content.
+
+2. HTML must contain structural markup, not large amounts of hardcoded website text.
+
+3. JavaScript must retrieve content from `BUREAU_CONTENT`.
+
+4. Do not duplicate the same text in several files.
+
+5. Do not hardcode random result messages inside event listeners.
+
+6. Do not put activity responses directly inside rendering functions.
+
+7. Do not hardcode announcements inside the countdown or chaos scripts.
+
+8. Every randomly generated response must come from editable arrays or objects.
+
+9. Every document must be editable from `content.js`.
+
+10. Changing a sentence in `content.js` must update the website without requiring changes elsewhere.
+
+11. Include comments and clear section separators in `content.js`.
+
+12. Make the file understandable to someone who knows basic JavaScript.
+
+13. Include a README explaining precisely where to edit each type of content.
+
+14. Provide examples showing how to add a new announcement, coffee response, archive document, and activity result.
+
+15. Add sensible fallback content so a missing optional array does not crash the entire website.
+
+## D. Separate configuration from written content
+
+If necessary, use a separate `config.js` for technical settings, such as:
+- Countdown timezone.
+- Countdown month and day.
+- Animation durations.
+- Chaos event frequency.
+- Navigation behaviour.
+
+However, all written text should remain in `content.js`.
+
+Do not mix technical configuration with the actual written content unnecessarily.
+
+## E. Optional advanced feature
+
+If practical, provide an optional simple content-editing guide or editing mode.
+
+However, this is not a replacement for the central `content.js` requirement.
+
+Do not add a complicated CMS, database, server, or login system.
+
+The website must remain easy to edit locally.
+
+---
+
+# 16. TECHNICAL REQUIREMENTS
+
+Use:
+
+- HTML5.
+- CSS3.
+- Vanilla JavaScript.
+
+Avoid unnecessary frameworks.
+
+The website must work locally by opening `index.html`.
+
+Do not require:
+- Node.js.
+- npm.
+- React.
+- Vite.
+- A build process.
+- A database.
+- A backend server.
+
+Use modular JavaScript files.
+
+Suggested file structure:
+
+    THE-BROMINE-BUREAU/
+    |
+    |-- index.html
+    |-- content.js
+    |-- config.js
+    |-- README.md
+    |
+    |-- css/
+    |   |-- style.css
+    |
+    |-- js/
+    |   |-- main.js
+    |   |-- navigation.js
+    |   |-- countdown.js
+    |   |-- departments.js
+    |   |-- breakroom.js
+    |   |-- activities.js
+    |   |-- archive.js
+    |   |-- chaos.js
+    |   |-- animations.js
+    |
+    |-- assets/
+        |-- images/
+        |-- audio/
+        |-- fonts/
+
+You may adjust the structure if there is a strong technical reason.
+
+All paths must work correctly when opened locally.
+
+Avoid ES module imports if they would prevent the site from working through `file://`.
+
+Use a compatible script-loading strategy.
+
+---
+
+# 17. RESPONSIVE DESIGN
+
+The website must be mobile-first.
+
+Support:
+- 320px mobile screens.
+- Standard smartphones.
+- Tablets.
+- Laptops.
+- Large desktop screens.
+
+Do not simply shrink a desktop layout.
+
+Design mobile intentionally.
+
+Requirements:
+- No horizontal overflow.
+- Readable document text.
+- Properly scaled headings.
+- Comfortable tap targets.
+- Functional mobile navigation.
+- Proper spacing.
+- Responsive typography.
+- Images must scale correctly.
+- Buttons must remain usable.
+- Countdown must fit smaller screens.
+
+Desktop should use the available space elegantly without stretching text excessively.
+
+---
+
+# 18. OPTIONAL ASSETS
+
+An optional image may be supplied:
+
+`assets/images/shinchan.png`
+
+If it exists, use it only where it makes sense within the Bureau's visual identity.
+
+If the file is missing:
+- Do not show a broken image.
+- Do not throw an error.
+- Hide the optional element gracefully.
+
+Do not use photographs of Palak.
+
+Prefer CSS illustrations, typography, and simple SVG elements.
+
+Do not rely on external image URLs for essential website functionality.
+
+---
+
+# 19. CONTENT QUALITY
+
+This is extremely important.
+
+The website must not feel like a generic template filled with five repeated jokes.
+
+Write substantial, varied, original content.
+
+The humour should be:
+- Dry.
+- Deadpan.
+- Bureaucratic.
+- Self-aware.
+- Occasionally absurd.
+- Unexpected.
+- Consistent with the institutional setting.
+
+The founder should be the main target of the humour.
+
+The departments should have distinct personalities:
+
+HR: concerned, professional, increasingly exhausted.
+
+Finance: suspicious, practical, deeply unimpressed.
+
+IT: technically competent, emotionally unavailable to management's requests.
+
+PR: desperately attempting to preserve institutional credibility.
+
+Management: confidently making everything worse.
+
+Avoid:
+- Repeating the same punchline.
+- Overusing the word "Bromine."
+- Making every message about the founder in exactly the same way.
+- Generic filler paragraphs.
+- Placeholder text.
+- Excessive exclamation marks.
+- Random humour that does not fit the Bureau.
+
+The comedy should become more ridiculous as the visitor explores deeper sections.
+
+---
+
+# 20. QUALITY ASSURANCE AND TESTING
+
+Before delivering the project, verify:
+
+### General
+- HTML structure is valid.
+- CSS loads correctly.
+- JavaScript has no syntax errors.
+- All file paths are correct.
+- No essential external dependency is required.
+- The website opens locally.
+
+### Navigation
+- Every section opens.
+- Navigation highlights the correct section.
+- Back and close controls work.
+- Mobile navigation works.
+
+### Homepage
+- Announcements rotate.
+- Status messages work.
+- Countdown updates.
+- Countdown uses IST correctly.
+- Birthday mode works on November 20.
+- Countdown resets after November 20.
+
+### Departments
+- All four departments display correctly.
+- Their notices and documents load.
+- No empty or broken sections.
+
+### Break room
+- Coffee button works.
+- Brewing animation plays.
+- Responses change.
+- Missing assets do not break the page.
+
+### Activities
+- All three activities work.
+- Random results vary.
+- Result text comes from `content.js`.
+- No repeated tiny result pool.
+
+### Archive
+- All five documents open.
+- Document content is readable.
+- Close and return controls work.
+- Metadata displays correctly.
+
+### Secret
+- Hidden interaction works.
+- Secret message reveals correctly.
+
+### Chaos
+- Events trigger occasionally.
+- They do not interfere with navigation.
+- They do not break other interactions.
+
+### Responsive
+- Test 320px width.
+- Test mobile portrait.
+- Test tablet.
+- Test desktop.
+- Check for horizontal overflow.
+
+### Accessibility
+- Buttons have understandable labels.
+- Keyboard navigation works where practical.
+- Focus states are visible.
+- Reduced-motion preferences are respected.
+- Text contrast is readable.
+
+Do not claim a test passed unless it was actually performed.
+
+---
+
+# 21. FINAL DELIVERABLES
+
+Deliver:
+
+1. Complete working website.
+2. All source files.
+3. Central editable `content.js`.
+4. Technical `config.js`, if used.
+5. Complete CSS and JavaScript.
+6. README with setup instructions.
+7. Detailed content-editing guide.
+8. A ZIP containing the entire project.
+9. No missing essential assets.
+10. No placeholder implementations.
+
+The ZIP should preserve the complete folder structure.
+
+The website must be ready to open locally.
+
+---
+
+# 22. FINAL CREATIVE DIRECTION
+
+Remember the fundamental contradiction:
+
+**The website looks like a serious institution. The institution itself is completely unnecessary.**
+
+The visual design should be quiet.
+
+The writing should be ridiculous.
+
+The animations should be restrained.
+
+The interactions should be unpredictable.
+
+The departments should look professional while slowly revealing that the founder is an administrative liability.
+
+The archive should feel like it contains genuinely confidential institutional records, despite the absurdity of the subject.
+
+The visitor should gradually discover that the Bureau has far more documentation, departments, procedures, and internal problems than any reasonable organisation should have.
+
+And the biggest institutional concern should remain the person who created it.
+
+**THE BROMINE BUREAU**
+*An institution of questionable necessity. Operational by administrative accident.*
